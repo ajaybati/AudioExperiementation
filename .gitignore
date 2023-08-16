@@ -1,0 +1,6 @@
+*
+!*.gitignore
+!*.ipynb
+!.py
+!README.md
+!ecapa_training/
