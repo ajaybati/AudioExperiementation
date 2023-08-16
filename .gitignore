@@ -1,6 +1,7 @@
 *
 !*.gitignore
 !*.ipynb
-!.py
+!*.py
 !README.md
+!*.yaml
 !ecapa_training/
